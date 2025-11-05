@@ -68,9 +68,4 @@ All machines were configured on an **internal network** in VirtualBox, using sta
 - **CMD / PowerShell**
 - **Active Directory & DNS Services**
 
----
 
-## 👨‍💻 Author
-**Sadman Nahin**  
-📧 your.email@example.com  
-🔗 [GitHub](https://github.com/Sadmannahin2000) | [LinkedIn](https://linkedin.com/in/your-link)
